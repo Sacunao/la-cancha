@@ -15,14 +15,14 @@
 .inside{
 	position: absolute;
 	border: 1px solid white;
-	width: 100px;
-	height: 250px;
+	width: 125px;
+	height: 200px;
 }
 .arco-uno{
-	top: 100px;
+	top: 125px;
 }
 .arco-dos{
-	top: 100px;
+	top: 125px;
 	right: 0;
 }
 .medio{
@@ -32,4 +32,20 @@
 	left: 350px;
 	top: 125px;
 	border-radius: 50%;
+}
+img{
+	position: absolute;
+}
+.bola-uno{
+	top: 130px;
+	left: 110px;
+}
+.bola-dos{
+	left: 470px;
+	top: 50px;
+}
+.bola-tres{
+	top: 305px;
+	right: 125px;
+}
 }
